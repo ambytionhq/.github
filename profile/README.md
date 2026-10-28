@@ -1,6 +1,6 @@
-# this is ambytion.
+![Ambytion banner](banner.png)
 
-we build private, native software that looks and feels good to use.
+we build private, native software that looks and feels good to use. 
 
-get in touch: hi@ambytion.net
+get in touch: hi@ambytion.net 
 legal: legal@ambytion.net
